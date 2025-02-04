@@ -1,1 +1,1 @@
-My first readme
+Changes in the readme for the exercise
